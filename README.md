@@ -1,6 +1,6 @@
 # Personal Academic Website
 
-Personal website for Davide Cantavenera - Researcher in Visual Perception & Cognitive Neuroscience.
+Personal website for Davide Cantavenera - Assistant Researcher in Visual Perception & Cognitive Neuroscience.
 
 🌐 **Live Site**: https://davidecantavenera.github.io/Landing_Page
 
