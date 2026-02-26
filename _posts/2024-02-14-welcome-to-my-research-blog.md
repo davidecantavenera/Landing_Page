@@ -6,43 +6,37 @@ excerpt: "Introducing my new academic website and blog, where I'll share insight
 
 # Welcome to My Research Blog
 
-I'm excited to launch this new space where I can share my thoughts, research updates, and insights from my journey in cognitive science and visual perception.
+This space is where I document my research journey in cognitive neuroscience and visual perception. Expect a mix of project updates, methodological reflections, and thoughts on how the brain constructs what we see.
 
-## What You'll Find Here
+## What to Expect
 
-This blog will serve as a platform to discuss:
+**Research in Progress**: Updates on my work with transcranial stimulation (tRNS, TMS, tACS) and visual illusions like the Flash Drag Effect. I'll share what's working, what isn't, and what I'm learning along the way.
 
-- **Research Updates**: Progress on my current projects involving transcranial stimulation (tRNS, TMS, tACS) and visual perception phenomena like the Flash Drag Effect
-- **Methodological Insights**: Reflections on experimental design, data analysis approaches, and the tools I use in my research
-- **Cognitive Science Perspectives**: Thoughts on how the brain processes visual information and what this tells us about perception and cognition
-- **AI and Neuroscience**: Exploring the fascinating parallels and differences between biological and artificial intelligence
+**Methods & Tools**: Notes on experimental design, data analysis pipelines, and the practical side of running psychophysics experiments. The stuff that doesn't make it into papers but matters when you're actually doing the work.
 
-## My Research Focus
+**Bigger Picture**: Occasional thoughts on Bayesian models of perception, the role of neural oscillations, and what computational approaches can (and can't) tell us about how the brain works.
 
-Currently, I'm investigating how the brain integrates sensory information with prior expectations—a fundamental question in cognitive neuroscience. My work combines behavioral experiments with non-invasive brain stimulation techniques to understand the neural mechanisms underlying visual perception.
+## Current Focus
 
-The Flash Drag Effect, a phenomenon where a briefly flashed object appears displaced in the direction of nearby motion, serves as an excellent model for studying these processes. By modulating activity in visual areas V1 and MT using different stimulation protocols, we can test specific hypotheses about how the brain constructs our visual experience.
+My research centers on how the brain integrates sensory signals with prior expectations. I use the Flash Drag Effect—where a flashed object appears shifted toward nearby motion—as a window into these mechanisms. By applying different brain stimulation protocols to V1 and MT, I'm testing how feedforward detection and feedback correction interact to shape what we perceive.
 
-## Why This Blog?
+The goal isn't just to catalog illusions, but to understand the computational principles the brain uses to construct a coherent visual world from noisy, delayed sensory input.
 
-Science thrives on communication and collaboration. Through this blog, I hope to:
+## Why Write This?
 
-1. **Share knowledge** beyond traditional academic publications
-2. **Connect** with fellow researchers and students interested in similar questions
-3. **Document** my research journey, including the challenges and breakthroughs
-4. **Engage** with broader discussions about perception, cognition, and AI
+Science happens through conversation. This blog is a way to share work-in-progress, connect with people thinking about similar questions, and document the messy, non-linear process of doing research. If something here sparks an idea or a question, reach out—I'd be happy to talk.
 
-## What's Next?
+## Coming Up
 
-I'm currently working on several exciting projects that I'll be sharing here soon. Stay tuned for posts about:
+Posts I'm planning:
 
-- How stochastic resonance might enhance visual processing
-- The role of oscillatory activity in perceptual decision-making
-- Practical tips for running psychophysics experiments
-- Reflections on the intersection of psychology, neuroscience, and computational modeling
+- Stochastic resonance and why adding noise can improve perception
+- Phase-dependent effects in tACS: what they reveal about oscillatory function
+- Practical lessons from designing adaptive psychophysics paradigms
+- Bayesian inference in the brain: elegant theory, messy reality
 
-Thank you for visiting, and I look forward to sharing this journey with you!
+Thanks for stopping by.
 
 ---
 
-*Feel free to reach out if you have questions, suggestions, or just want to discuss these fascinating topics. You can find my contact information in the main page.*
+*Questions or comments? You can find my contact info on the main page.*

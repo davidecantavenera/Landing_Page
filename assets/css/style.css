@@ -1088,6 +1088,11 @@ a:hover {
     font-weight: bold;
 }
 
+.progress-labels span.completed {
+    color: var(--color-accent);
+    opacity: 0.6;
+}
+
 /* Footer */
 .site-footer {
     border-top: 1px solid var(--glass-border);
